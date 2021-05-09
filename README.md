@@ -1,5 +1,5 @@
 # Banana-Shake
-This recipe is for one glass.
+This recipe is for one glass Banana Shake.
 # Ingredients:->
 1) 1 Banana
 2) 3/4 glass of milk
